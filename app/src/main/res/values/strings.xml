@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Warikan_Money</string>
+    <string name="about">このアプリについて</string>
+    <string name="syukei">集計開始</string>
+    <string name="japan">
+        ー*+:JAPAN:+*ー\n\nこのアプリについて\nこのアプリケーションは割り勘に活用するのを\n目的として開発された計算アプリです。
+        \nー使い方ー\n\nEditTextに上から合計金額、参加人数、先に帰った人数\n先に帰った人が置いて帰った金額を入力します。
+        \n\n入力内容に間違いがなければ計算を行いますので\n決定ボタン押してください。
+        \n\n以上が使い方の説明になります。</string>
+    <string name="goukei">合計金額</string>
+    <string name="people">人数</string>
+    <string name="back_people">先に帰った人数</string>
+    <string name="onMoney">置いていったお金</string>
+    <string name="preview">これは実行テストです</string>
+    <string name="bignumer">\ 金額より数字のほうが多くなってます。\n \ 入れ直してください。 </string>
+    <string name="error">\  入力に不足事項があります。\n \ 入れ直してください。</string>
+    <string name="result">一人あたりの金額について</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_second">SecondActivity</string>
+</resources>
